@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-custom",
+  "version": "1.0.0",
+  "description": "Project template for creating custom bootstrap projects",
+  "main": "wwwroot/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FpRezDev/bootstrap-custom.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "custom"
+  ],
+  "author": "FpRezDev <fprez.developer@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FpRezDev/bootstrap-custom/issues"
+  },
+  "homepage": "https://github.com/FpRezDev/bootstrap-custom#readme"
+}
