@@ -1,3 +1,6 @@
+/**
+ * https://github.com/FpRezDev/gulp-sass-autoprefixer/blob/master/gulp-sass-autoprefixer.js
+ */
 const { src, dest } = require('gulp');
 const sass = require('gulp-sass');
 sass.compiler = require('node-sass');
