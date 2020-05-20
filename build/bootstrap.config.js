@@ -1,7 +1,11 @@
-/**
- * https://github.com/FpRezDev/gulp-rollup-babel/blob/master/rollup.bootstrap.config.js
- */
-const bootstrapConfig = {
+
+const bootstrapSassConfig = {
+  inputFileName: "./src/scss/bootstrap-custom.scss",
+  outputDir: "./dist/css/",
+  sourcemap: true
+};
+
+const bootstrapRollupConfig = {
   input: './src/js/bootstrap-custom.js',
   external: ['jquery', 'popper.js'],
   output: {
@@ -15,4 +19,5 @@ const bootstrapConfig = {
     }
   }
 };
-exports.bootstrapConfig = bootstrapConfig;
+exports.bootstrapRollupConfig = bootstrapRollupConfig;
+exports.bootstrapSassConfig = bootstrapSassConfig;
