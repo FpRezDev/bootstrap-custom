@@ -7,8 +7,12 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "@rollup/plugin-babel": "^5.0.0",
+    "autoprefixer": "^9.8.0",
     "bootstrap": "^4.5.0",
     "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^4.14.1",
     "rollup": "^2.10.4"
   },
   "main": "wwwroot/index.html",
