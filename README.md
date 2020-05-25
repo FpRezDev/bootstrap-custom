@@ -1,22 +1,27 @@
 # bootstrap-custom
 Project template for creating custom bootstrap projects
 
+Screenshot
+---------
+
+![alt text](/screenshot.png "bootstrap-custom screenshot")
+
 Install
-========
+---------
 
 ```
 git clone https://github.com/FpRezDev/gulp-sass-autoprefixer.git
 ```
 
 Build Css/Js/Libs
-========
+---------
 
 ```
 npm run build
 ```
 
 Available scripts
-========
+---------
 
 ```
 npm run build
