@@ -1,11 +1,12 @@
 // Variables
 
 // Theme Colors
-$primary:   #3c626e;
-$dark:      #283140;
+$primary:     #3c626e;
+$dark:        #283140;
 $dark-accent: #739ead;
-$light:      #f7f6f5;
-$light-accent: #93a4a7;
+$light:       #f7f6f5;
+$light-accent:#93a4a7;
+$body-bg:       $light;
 
 // Theme Color Map
 $theme-colors: (
@@ -17,5 +18,16 @@ $theme-colors: (
   "light-accent": $light-accent,
 );
 
+$spacer: 1rem !default;
+$spacers:  (
+  0: 0,
+  1: ($spacer * .25),
+  2: ($spacer * .5),
+  3: $spacer,
+  4: ($spacer * 1.5),
+  5: ($spacer * 3),
+  6: ($spacer * 4)
+) !default;
+
 // NO ROUNDED CORNERS unless .rounded is specified
-$enable-rounded: false !default;
+$enable-rounded: true !default;

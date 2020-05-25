@@ -1,4 +1,6 @@
-wwwroot/
+wwwroot/css/
+wwwroot/js/
+wwwroot/libs/
 # Logs
 logs
 *.log
