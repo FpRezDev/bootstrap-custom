@@ -10,7 +10,7 @@ Install
 ---------
 
 ```
-git clone https://github.com/FpRezDev/gulp-sass-autoprefixer.git
+git clone https://github.com/FpRezDev/bootstrap-custom.git
 ```
 
 Build Css/Js/Libs
