@@ -1,21 +1,10 @@
 {
   "name": "bootstrap-custom",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Project template for creating custom bootstrap projects",
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@babel/plugin-proposal-object-rest-spread": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
-    "@rollup/plugin-babel": "^5.0.0",
-    "autoprefixer": "^9.8.0",
-    "bootstrap": "^4.5.0",
     "del": "^5.1.0",
-    "gulp": "^4.0.2",
-    "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.1.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.14.1",
-    "rollup": "^2.10.4"
+    "gulp-rollup-bootstrap-custom": "^1.0.0"
   },
   "main": "wwwroot/index.html",
   "scripts": {
