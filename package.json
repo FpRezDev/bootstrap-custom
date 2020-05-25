@@ -9,7 +9,14 @@
   },
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "buildCss": "gulp buildCss",
+    "buildJs": "gulp buildJs",
+    "buildLibs": "gulp buildLibs",
+    "build": "gulp build",
+    "cleanCss": "gulp cleanCss",
+    "cleanJs": "gulp cleanJs",
+    "cleanLibs": "gulp cleanLibs",
+    "clean": "gulp clean"
   },
   "repository": {
     "type": "git",
