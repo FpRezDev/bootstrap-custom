@@ -16,7 +16,10 @@
     "cleanCss": "gulp cleanCss",
     "cleanJs": "gulp cleanJs",
     "cleanLibs": "gulp cleanLibs",
-    "clean": "gulp clean"
+    "clean": "gulp clean",
+    "watchCss": "gulp watchCss",
+    "watchJs": "gulp watchJs",
+    "watch": "gulp watch"
   },
   "repository": {
     "type": "git",

@@ -32,4 +32,7 @@ npm run clean
 npm run cleanCss
 npm run cleanJs
 npm run cleanLibs
+npm run watch
+npm run watchCss
+npm run watchJs
 ```
